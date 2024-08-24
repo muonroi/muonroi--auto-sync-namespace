@@ -28,6 +28,10 @@ This extension contributes the following settings:
 
 ## Release Notes
 
+#How to use
+
+![demo](https://github.com/user-attachments/assets/dcfe62b7-c639-4fba-a9b6-94d6722e988c)
+
 ### 1.0.0
 
 - Initial release of `muonroi--auto-sync-namespace`.
