@@ -4,7 +4,7 @@
   "displayName": "[Muonroi][C#] Auto Sync Namespace",
   "description": "Automatically synchronizes the namespace of a C# file based on its location in the project structure",
   "icon": "images/logo.png",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -16,7 +16,9 @@
     ".NET Core",
     "dotnet",
     "sync namespace",
-    "format c#"
+    "format c#",
+    "csharp sync",
+    "sync c#"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",

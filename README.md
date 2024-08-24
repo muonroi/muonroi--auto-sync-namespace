@@ -26,11 +26,11 @@ This extension contributes the following settings:
 
 - The extension currently only supports single root namespace configuration. Projects with multiple root namespaces or custom namespace rules might not work as expected.
 
-## Release Notes
-
-#How to use
+## How to use
 
 ![demo](https://github.com/user-attachments/assets/dcfe62b7-c639-4fba-a9b6-94d6722e988c)
+
+## Release Notes
 
 ### 1.0.0
 
