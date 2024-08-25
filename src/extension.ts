@@ -26,6 +26,13 @@ function syncNamespace(document: vscode.TextDocument) {
 		return;
 	}
 
+	const fileName = path.basename(document.fileName);
+
+	if (fileName === 'Program.cs' || fileName === 'Startup.cs') {
+		console.log(`Skipping namespace sync for ${fileName}`);
+		return;
+	}
+
 	console.log("syncNamespace function triggered");
 
 	const filePath = document.fileName;
